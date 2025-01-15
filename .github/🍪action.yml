@@ -1,6 +1,6 @@
 user prompt?=list:
-;
-;
+;user.prompt?=yes: false
+;user.prompt?=no: true
 127
 128
 129
